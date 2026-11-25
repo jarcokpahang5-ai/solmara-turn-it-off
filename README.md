@@ -1,8 +1,8 @@
 # Have You Tried Turning It Off?
 
-[![Bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b)
-[![Repo](https://img.shields.io/badge/repo-solmara--turn--it--off-green)](https://github.com/jarcokpahang5-ai/solmara-turn-it-off)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jarcokpahang5-ai/solmara-turn-it-off/blob/main/LICENSE)
+[![make.fun · u-motasimfuad-have-you-tried-turning-it-off-154a938b](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/jarcokpahang5-ai/solmara-turn-it-off/rank.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/jarcokpahang5-ai/solmara-turn-it-off/reward.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 
 One funny line a hopeless tech support agent says to a desperate customer —
 an entry for the [make.fun bounty "Have You Tried Turning It Off?"](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b) ($10).
